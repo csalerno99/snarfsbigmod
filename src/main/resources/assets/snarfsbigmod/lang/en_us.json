@@ -1,0 +1,13 @@
+{
+  "itemGroup.snarfsbigmod": "Example Mod Tab",
+  "block.snarfsbigmod.example_block": "Example Block",
+  "item.snarfsbigmod.example_item": "Example Item",
+
+  "snarfsbigmod.configuration.title": "Snarf's Big Mod Configs",
+  "snarfsbigmod.configuration.section.snarfsbigmod.common.toml": "Snarf's Big Mod Configs",
+  "snarfsbigmod.configuration.section.snarfsbigmod.common.toml.title": "Snarf's Big Mod Configs",
+  "snarfsbigmod.configuration.items": "Item List",
+  "snarfsbigmod.configuration.logDirtBlock": "Log Dirt Block",
+  "snarfsbigmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "snarfsbigmod.configuration.magicNumber": "Magic Number"
+}
